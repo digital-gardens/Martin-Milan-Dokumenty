@@ -171,11 +171,11 @@ git push
 
 history -a
 
-
+code ../q
 history -w ../q
 history -w ../history-w---file.publ.sh.txt
 
 C:\Users\marti\OneDrive\Dokumenty\00\Dokumenty-Robocopy---c-Dokumenty---d-mir.f5.cmd
-
+1.289 g bytes
 Robocopy
 
