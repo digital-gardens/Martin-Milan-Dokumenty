@@ -185,3 +185,8 @@ Once deleted, the space will become unallocated, merging with the 76.23 GB block
 minor 
 bug  
 i: autohotkey
+
+G:\Users\milanlocal\downloads-d\AutoHotkey_1.1\AutoHotkeyU64.exe    C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+
+
+
