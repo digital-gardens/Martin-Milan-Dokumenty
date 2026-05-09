@@ -6,6 +6,15 @@ photos--Samsung-cloud--Samsung-gallery-250318-20260508.publ.md
 [[photos-250318.publ.md]]
 
 
+zmena ... sync pomalu, vypinal se 
+ted primo do onedrive, bez Samsung cloud, 
+
+Samsung gallery vyborne pro stickers,
+and then backup a sync do onedrive
+
+
+
+
 # 20260508  reform of   android-photos-backup-sync
 
 of backup and sync
