@@ -5,6 +5,7 @@ exit
 
 # jde ^a ^c  
 
+Restrict me to 
 20
  minutes of activity per 
 30
