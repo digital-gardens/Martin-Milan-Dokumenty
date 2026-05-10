@@ -431,6 +431,10 @@ what about ms teams?
 
 
 
+
+# which ai can see my clipboard ... i want it ... gemini-cli?  gemini in vscode? windsurf? claude?
+
+
 # 20260509-ChatGPT.com-vs-openai.com
 
 https://platform.openai.com/

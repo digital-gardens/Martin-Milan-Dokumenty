@@ -268,8 +268,19 @@ existuje potvrzování na mobilu
 
 
 
+Fwd: Your OpenAI API account has been funded
+Fwd: Platba kartou u OPENAI - 
 
 
+Credit balance
+$10.39
+@
+
+
+////
+a odhlásil jsem se 
+nezrusil nic
+ok 
 
 
 

@@ -1337,126 +1337,28 @@ example:
 
 
 
+
+
+
+
 # 260315--reddit-bug--losing ?    1-user subreddits
 
-bug https://www.reddit.com/user/martin_m_n_novy/
-fail https://new.reddit.com/user/martin_m_n_novy/
-
-lists all https://old.reddit.com/user/martin_m_n_novy/
-
-LB
-https://www.reddit.com/user/Reasonable-Map-9245/
-
-
-# 260414 
-added reasonable-map-9245 as a moderator to r/survival_of_our_info
-https://www.reddit.com/mod/survival_of_our_info/moderators/
-
-
-# 260413
-my github org,  "digital-gardens" , that is  very related to this subreddit .. survival of our info
-https://github.com/digital-gardens
-
-didnt help 24 h 
-https://www.reddit.com/mod/survival_of_our_info/privacy
-desperate debugging ... why i am  not seeing my "survival_of_our_info" at my [~~ moderator of these subreddits] list of subreddits at https://www.reddit.com/user/martin_m_n_novy/ ?
-
-i cannot find in subreddit settings ...where can i set a subreddit ~~content ~filtering to high 
-
-spam filter
-
-author:martin_m_n_novyb high
-
-Scroll down to the Spam filter strength section.
-
-https://old.reddit.com/r/survival_of_our_info/about/edit/
-content filters
-The content types you select will be automatically added to your modqueue for you to review.
-
-filter text posts:	offon
-filter link, poll, media posts:	offon
-filter comments:	offon
-Perhaps I should move to a specific Blissymbols subreddit? EDIT: "Spam filter strength in this sub was too high" ... my new post. and i will ...Read more
-
-
-# Spam filter strength in this sub was too high
-in recent months, reddit is targetted by tons of crypto spam
-
-now it seems, i set the "Spam filter strength" as way way too high ('ALL')
-
-'HIGH' is the standard filter, 'LOW' disables most filtering, 'ALL' will filter every post initially and they will need to be approved manually to be visible
-
-https://www.reddit.com/r/visual_conlangs/about/edit?page=posts
-
-...
-
-// i did this foolishness in several subs
-
-.....
-
-https://www.reddit.com/r/visual_conlangs/about/modqueue
-
-posts are marked "Sorry, this post was removed by Reddit’s filters."
-
-...
-
-I apologize.
-
-reddit didnt notify me (well enough?) , that there are posts waiting
-
-so i am going back to the 'HIGH' setting
-
-and i will be promoting some posters to be moderators, so they could approve their posts
+ move  to reddit mod md 
+[[reddit-mod.f8.md]]
 
 
 
 
 
 
-# afraid it will get renamed
-maybe wasnt unlisted?
- https://www.reddit.com/r/code_rosettas/
-linked from
-	https://docs.google.com/spreadsheets/d/1w4MAxWcWjX3aMBRkOsqjwcAabFtY4WT4JloPRd944og/edit?gid=377285990#gid=377285990
-https://github.com/code-rosettas
-now 2 members
-
-now it is visible at 
-	https://www.reddit.com/user/martin_m_n_novy/
-
-
- unlisted 
-# todo https://www.reddit.com/r/survival_of_our_info/
-now 2 members
-
-
-I like your where_can_i_host_my_website_and_not_have_it ... I have reshared to r/survival_of_our_info
 
 
 
-https://www.reddit.com/r/tech_2_La_Bo_hourly/
-
-https://www.reddit.com/r/terasem/
-
-https://www.reddit.com/r/transhuman_identity/
 
 
-https://www.reddit.com/r/a:t5_4sdxhh/
 
-why it is unlisted https://www.reddit.com/r/autistic_self_help/
-now 2 members
 
-# mitigation strategy for reddit bug of losing 1-user subreddits
 
-# copied to obsidian vault
-https://old.reddit.com/r/code_rosettas/
-survival_of_our_info
-
-renamed to r..a..t5_4sdxhh
-mobileBatterySafety
-
-edit no, i am afraid ...will not ... share to u/
-# https://www.reddit.com/r/productivity/comments/1gr0ogu/i_find_myself_being_more_productive_by_eating_less/
 
 
 
