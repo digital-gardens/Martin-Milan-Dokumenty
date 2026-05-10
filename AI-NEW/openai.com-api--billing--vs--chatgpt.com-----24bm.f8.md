@@ -1,5 +1,14 @@
+- [https://community.openai.com/t/how-to-multiple-members-on-one-openai-billing-account/21751](#httpscommunityopenaicomthow-to-multiple-members-on-one-openai-billing-account21751)
+- [https://platform.openai.com/account/billing/overview](#httpsplatformopenaicomaccountbillingoverview)
+- [https://platform.openai.com/account/billing/limits](#httpsplatformopenaicomaccountbillinglimits)
+- [https://platform.openai.com/account/billing/preferences](#httpsplatformopenaicomaccountbillingpreferences)
+- [https://openai.com/policies](#httpsopenaicompolicies)
 
-# todo split this file from here into a new file ... 
+
+
+# // a note for Martin only ... at the end  ... setting up an openai  org?
+
+# done split this file from here into a new file ... 
 openai.com-api,chatgpt-billing--24bm.f8.md
 openai.com-api--billing--vs--chatgpt.com-----24bm.f8.md
 
@@ -36,7 +45,12 @@ Up to 5x more messages for GPT‑4o
 Access to data analysis, file uploads, vision, web browsing, and image generation
 Access to Advanced Voice Mode
 
+
+
+
+
 # older notes related to openai *api* login, that is not openai *chatgpt* login
+
 
 
 # https://community.openai.com/t/how-to-multiple-members-on-one-openai-billing-account/21751
@@ -48,6 +62,9 @@ me definitely not the plus plan $20/month
 EDIT 24bm going for the $20/month plan
 
 ###############
+
+
+
 
 
 # https://platform.openai.com/settings/organization/billing/history
@@ -206,6 +223,9 @@ asi jsem se měl přihlásit na openai.com
 //// téma EDIT # 20260509-ChatGPT.com-vs-openai.com
 
 
+edit donutili mne zmenit heslo
+https://chat.google.com/room/AAAAKqmKeeY/YPVLkUXFHHc/YPVLkUXFHHc?cls=10 
+)
 
 
 (

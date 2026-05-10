@@ -20,7 +20,11 @@ virtgeorg
 
 
 # jestli clipboard, asi po kouskach, prostredek asi jen na papirek
+
+
 # na chvili vypnu edge clipbo manager, muj ahk clipb hisotrry pak zase zapnu
+=================
+
 # a vymazu z win+v
 
 #  radeji podivatse, zda se tam pravidelne mesicne neco neplati 

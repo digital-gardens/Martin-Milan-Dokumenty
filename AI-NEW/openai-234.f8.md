@@ -4,15 +4,12 @@
 - [grep -oE --no-filename -R 'cmap\[=\]........{,3}' | sort|uniq -c  | sort -n](#grep--oe---no-filename--r-cmap3--sortuniq--c---sort--n)
 - [I now have a dream project: something like ... linear algebra, for neural networks, in the form of Jupyter notebooks.](#i-now-have-a-dream-project-something-like--linear-algebra-for-neural-networks-in-the-form-of-jupyter-notebooks)
 - [https://www.alignmentforum.org/posts/Qup9gorqpd9qKAEav/200-cop-in-mi-studying-learned-features-in-language-models#comments](#httpswwwalignmentforumorgpostsqup9gorqpd9qkaeav200-cop-in-mi-studying-learned-features-in-language-modelscomments)
-- [https://community.openai.com/t/how-to-multiple-members-on-one-openai-billing-account/21751](#httpscommunityopenaicomthow-to-multiple-members-on-one-openai-billing-account21751)
-- [https://platform.openai.com/account/billing/overview](#httpsplatformopenaicomaccountbillingoverview)
-- [https://platform.openai.com/account/billing/limits](#httpsplatformopenaicomaccountbillinglimits)
-- [https://platform.openai.com/account/billing/preferences](#httpsplatformopenaicomaccountbillingpreferences)
-- [https://openai.com/policies](#httpsopenaicompolicies)
 
 
 
-# // a note for Martin only ... at the end  ... setting up an openai  org?
+# done split this file from here into a new file ... 
+openai.com-api,chatgpt-billing--24bm.f8.md
+openai.com-api--billing--vs--chatgpt.com-----24bm.f8.md
 
 
 
