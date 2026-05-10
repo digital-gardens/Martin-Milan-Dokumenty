@@ -1,3 +1,14 @@
+
+# 20260509  dr. Praško   dekatastrofizace
+pro každou transakci
+existuje potvrzování na mobilu
+
+
+ 20260509-ChatGPT.com-vs-openai.com
+
+
+
+
 - [https://community.openai.com/t/how-to-multiple-members-on-one-openai-billing-account/21751](#httpscommunityopenaicomthow-to-multiple-members-on-one-openai-billing-account21751)
 - [https://platform.openai.com/account/billing/overview](#httpsplatformopenaicomaccountbillingoverview)
 - [https://platform.openai.com/account/billing/limits](#httpsplatformopenaicomaccountbillinglimits)
@@ -246,10 +257,14 @@ asi jsem se měl přihlásit na openai.com
 https://chatgpt.com/c/69ff9c71-7ef4-83eb-bdf1-c5755c3a413e
 Add funds to account
 
-#
-openai credits  expire one year from purchase date. .. of .. Paid credits are non-refundable and 
+# openai credits  expire one year from purchase date. .. of .. Paid credits are non-refundable and 
 
 We've updated the billing system for your OpenAI API account. Instead of receiving a bill at the end of the month, you'll now need to pre-purchase credits to use the API. You can add credits to your account by visiting the billing page. To learn more about prepaid billing, please see this help center article prepaid billing.
+
+
+# 20260509  dr. Praško   dekatastrofizace
+pro každou transakci
+existuje potvrzování na mobilu
 
 
 
