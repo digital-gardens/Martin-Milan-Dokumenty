@@ -429,6 +429,18 @@ C:\Users\marti\OneDrive\Videos\Captures
 what about ms teams?
 
 
+# https://claude.ai/onboarding
+[[2605-claude.ai.publ.md]]
+
+
+
+# Karpathy LLM wiki pattern ... LLM Agent (e.g. OpenAI Codex, Claude Code, OpenCode / Pi, or etc.). .... my question 1. 
+(read, write markdown files) 
+what are the etc ...
+- Gemini cli?
+- github copilot?
+- what else?
+- 
 
 
 
