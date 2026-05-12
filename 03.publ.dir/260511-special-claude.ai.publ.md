@@ -1,4 +1,5 @@
 https://claude.ai/login?from=logout
+https://claude.ai/login
 success 20260512
 login in edge of only G/ MN
 
