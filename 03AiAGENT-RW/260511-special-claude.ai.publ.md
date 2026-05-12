@@ -1,3 +1,12 @@
+
+aaa iii rrr 
+\b([atdiryn])\1+\b
+old \b([atdiryn])\1+ /   ...old  
+eol test aaaa
+
+knowledge work 
+
+
 https://claude.ai/login?from=logout
 https://claude.ai/login
 success 20260512
