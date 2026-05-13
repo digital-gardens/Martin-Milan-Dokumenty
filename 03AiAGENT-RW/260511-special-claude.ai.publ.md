@@ -7,6 +7,14 @@ eol test aaaa
 knowledge work 
 
 
+
+"C:\Users\marti\OneDrive\Dokumenty\011-POMOC.devel-20260513\Screenshot (1127).png"
+011-POMOC.devel-20260513.publ.md
+[[011-POMOC.devel-20260513.publ.md]]
+
+
+
+
 https://claude.ai/login?from=logout
 https://claude.ai/login
 success 20260512
