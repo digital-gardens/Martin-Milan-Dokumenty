@@ -1,13 +1,12 @@
 
-
-
-
-
-
-
-
 # 2509  250831  
-# reddit flagged banned
+# reddit flagged banned   ?
+
+i wrote to the moderators of r/transhumanism
+
+false alarm? https://www.reddit.com/user/Brian_from_accounts/comments/
+
+
 
 https://www.reddit.com/premium
 mail.google
@@ -55,7 +54,7 @@ reply
 
 
 
-
+last year
 i wrote to the moderators of r/transhumanism
 
 https://www.reddit.com/c/chathcU59JiE/s/BZkqbVUX44
@@ -67,6 +66,7 @@ I noticed that  my comment was removed, but it is still visible only to me. I th
 I apologize for that — I didn’t intend to spam. Should I delete one of the comments, or just leave it as it is? In the future I will make sure not to post the same comment twice across all reddit . com
 
 Thank you for your help.
+
 
 
 
