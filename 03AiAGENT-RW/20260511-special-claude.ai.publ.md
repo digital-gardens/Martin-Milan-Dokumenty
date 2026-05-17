@@ -5,6 +5,16 @@ old \b([atdiryn])\1+ /   ...old
 eol test aaaa
 
 
+switch off autoclick
+take screenshot of settings page
+
+
+# settings see line 200
+
+
+
+
+
 
 repo 
 digital-gardens/Martin-Milan
@@ -175,7 +185,6 @@ knowledge work
 
 
 
-aaaaaa     Teach Claude a workflow by recording the steps yourself, and Claude learns to repeat them. This is useful for repetitive browser tasks that follow the same pattern each time. To record a workflow:
 
 
 
@@ -188,12 +197,13 @@ login in edge of only G/ MN
 
 
 
+
+
 260511-special-claude.ai.publ.md
 
 
-
-
-
+switch off autoclick
+take screenshot of settings page
 
 
 # settings
@@ -201,8 +211,35 @@ see also
 the folder 
 code "C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\03-settings"
 
+
+
+# Settings
+
+- [General](https://claude.ai/settings/general)
+- [Account](https://claude.ai/settings/account)
+- [Privacy](https://claude.ai/settings/data-privacy-controls)
+- [Billing](https://claude.ai/settings/billing)
+- [Usage](https://claude.ai/settings/usage)
+- [Capabilities](https://claude.ai/settings/capabilities)
+- [Connectors](https://claude.ai/settings/connectors)
+- [Claude Code](https://claude.ai/settings/claude-code)
+- [Claude in ChromeBeta](https://claude.ai/settings/browser-extension)
+
+
+Capabilities
+https://claude.ai/settings/capabilities
+Customize
+
 https://claude.ai/settings/connectors
 dd yy+Let Claude surface connectors from the directory that may be relevant to your conversation.
+
+
+
+
+
+# aaaaaa     Teach Claude a workflow by recording the steps yourself, and Claude learns to repeat them. This is useful for repetitive browser tasks that follow the same pattern each time. To record a workflow:
+
+
 
 
 

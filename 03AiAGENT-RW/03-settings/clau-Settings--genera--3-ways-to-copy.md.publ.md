@@ -8,6 +8,19 @@ description: "Claude is Anthropic's AI, built for problem solvers. Tackle comple
 tags:
   - "clippings"
 ---
+
+
+
+switch off autoclick
+
+take screenshot of settings page
+
+
+
+
+
+
+
 ### Profile
 
 Avatar
