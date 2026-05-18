@@ -1,10 +1,11 @@
 AAAA-windows-JUNCTION-SYMLINK-warning
 
-some tools have bugs when i MOVE-JUNCTION-SYMLINk--should-rather-use-LNK-files
+# some tools have bugs when i MOVE-JUNCTION-SYMLINk--should-rather-use-LNK-files
 
 # junctions can be deleted using wexplorer gui
 
-warning ..windows do, by themselves, patch lnk files
+# warning ..windows do, by themselves, patch lnk files
+
 
 
 
@@ -16,7 +17,7 @@ not split
 junctioned from elsewhere
 
 
-before transaction
+# before transaction
 
 cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\" | clip
 
@@ -34,13 +35,19 @@ cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\" | clip
 snippets is a junction to a dir in OneDrive,
 
 
-after transaction
+# after transaction
+
+05/02/2022  22:43    <JUNCTION>     snippets
+
+ [C:\Users\marti\OneDrive\roam-code-us-snipp\]
+is a junction to \Users\marti\OneDrive\Dokumenty\roam-code-us-snipp\
 
 
 
 
+# tests
 
-end
+cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\snippets"
 
 
 
@@ -48,10 +55,18 @@ related
 C:\Users\marti\OneDrive\Dokumenty\Code-User-snippets-markdown.json.publ.md
 will be moved tooo
 
-cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\snippets"
 
 "C:\Users\marti\OneDrive\roam-code-us-snipp"
-"C:\Users\marti\OneDrive\Dokuments\roam-code-us-snipp"
+"C:\Users\marti\OneDrive\
+
+# omg.. a name  mangled   by ai   ..  Dokuments__s__ERROR   __k__ __s__ 
+english name is Documents, 
+i am not German // Dokuments__s__ERROR
+i am Czech  
+windows forced us to use czech Dokumenty   //// __y__ yyyyyy
+
+
+\roam-code-us-snipp"
 
 
 
@@ -64,7 +79,8 @@ git push
 
 move the dir
 
-robo Dokuments
+###robo Dokuments__s__ERROR
+robo Dokumenty
 
 git push
 
