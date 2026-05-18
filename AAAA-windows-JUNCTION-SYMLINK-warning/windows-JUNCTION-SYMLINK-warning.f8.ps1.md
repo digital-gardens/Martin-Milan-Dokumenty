@@ -53,9 +53,12 @@ snippets is a junction to a dir in OneDrive,
 tc copy by hand 
 the dir to dee 0 
 
-wt.exe
-pwsh 
-robo onedr 
+dont ... not finished after many tens of minutes
+        wt.exe
+        pwsh 
+        robo onedr 
+                restarted
+                again downloads some files
 
 
 # begin transaction
@@ -86,6 +89,8 @@ git push
 ###explorer delete the junction
 
 cmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
+
+cmd /c  dir    "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
 
 cmd /c dir 
 
@@ -136,6 +141,9 @@ cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\snippets"
 
 
 # aftermath  
+
+mkdir    "C:\Users\marti\AppData\Roaming\Code\User\snippets\0004-info-20260518-junction-to-junction"
+cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\snippets"
 
 
 related
