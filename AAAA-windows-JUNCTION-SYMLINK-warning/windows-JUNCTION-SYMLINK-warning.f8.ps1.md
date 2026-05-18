@@ -62,13 +62,24 @@ robo onedr
 
 git push
 
-notepad C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1
+notepad C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1.md
 
 close all vscode
-tc  move the dir
+
+^s
+explorer onedr 
+move the dir  roa
+
+what if windows patch junct files ??  NOOOOOOOO
+wt.exe
+pwsh
+cmd /c dir
+
 
 ###robo Dokuments__s__ERROR
 robo Dokumenty
+
+^S 
 
 git push
 
