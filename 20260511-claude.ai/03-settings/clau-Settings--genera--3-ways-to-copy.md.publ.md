@@ -17,6 +17,45 @@ take screenshot of settings page
 paste them to obsidian
 
 
+
+?ettings.*
+[text](../../screen-recorder,steps-recorder/settings.xml)
+[text](../../screen-recorder,steps-recorder/gitpinned-presso-settings.xml)
+[
+  
+](../../screen-recorder,steps-recorder/FOLDERNAME-IS-GITPINNED-gitpinned-presso-settings/gitpinned-presso-settings----copy.f5.xml)
+*sett*.xml
+*scr*.xml
+---------------------------
+Screenpresso
+---------------------------
+Failed to save settings.
+
+
+
+Error message :
+
+System.UnauthorizedAccessException: Access to the path 'C:\WINDOWS\system32\screenpresso-settings.15004.xml' is denied.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+
+   at System.Xml.XmlWriterSettings.CreateWriter(String outputFileName)
+
+   at LearnPulse.Screenpresso.CustomSettings.Save(CustomSettings settings, String configPath, Boolean showException)
+---------------------------
+OK   
+---------------------------
+
+
+
+
+
 # 20260518
 claude 
 settings

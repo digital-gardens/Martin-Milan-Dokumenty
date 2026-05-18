@@ -39,7 +39,9 @@
 !README.*
 !.gitignore
 !AutoHotkey.ahk
+
 !settings.json
+#!?ettings.*
 
 !CLAUDE.md
 
