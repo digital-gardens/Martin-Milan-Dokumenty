@@ -19,8 +19,10 @@ rem ------------------------------------
 rem 251128 revert  /xf  .gitignore  to including .gitignore files in robocopy mirroring
 rem ------------------------------------
 
+rem  # 20260518   /XD Pictures     /Pictures/ of JB      #Obr*/
+rem       /xf *.vhd    /xf *.vhdx   /xf BIG*.*  /XD BIG*
 
-Robocopy.exe   C:\Users\marti\OneDrive  D:\0004-LINKS\OneDrive      /s   /XJ     /XD Obr*    /XD Vide*     /XD .git    /XD node_modules   /XD OLD*      /xf  .gitignore2222222222222222         /xf .git    /xf .849C9593-D756-4E56-8D6E-42412*     /log+:C:\Users\marti\log\OneDrive--deldest-6.log     /tee    /ndl       /nfl      /MIR
+Robocopy.exe   C:\Users\marti\OneDrive  D:\0004-LINKS\OneDrive      /s   /XJ        /XD Pictures           /XD Obr*                /xf *.vhd    /xf *.vhdx   /xf BIG*.*  /XD BIG*                /XD Vide*     /XD .git    /XD node_modules   /XD OLD*      /xf  .gitignore2222222222222222         /xf .git    /xf .849C9593-D756-4E56-8D6E-42412*     /log+:C:\Users\marti\log\OneDrive--deldest-6.log     /tee    /ndl       /nfl      /MIR
 
 mkdir D:\0004-LINKS\OneDrive\Dokumenty\00000000--D--OneDrive-IN-DEE-IS-ROBOCOPY-MIR
 rem mkdir D:\0004-LINKS\OneDrive\00000000--D--OneDrive-IN-DEE-IS-ROBOCOPY-MIR
