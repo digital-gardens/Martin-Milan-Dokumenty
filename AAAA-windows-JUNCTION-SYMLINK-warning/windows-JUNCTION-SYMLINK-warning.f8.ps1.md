@@ -87,6 +87,12 @@ git push
 
 cmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
 
+cmd /c dir 
+
+close notepad 
+
+run vscode 
+
 
 
 
@@ -113,7 +119,6 @@ exit
 cmd 
 help  mklink |clip
 
-# todo  [C:\Users\marti\OneDrive\roam-code-us-snipp\] is a junction to \Users\marti\OneDrive\Dokumenty\roam-code-us-snipp\
 
 cmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
 

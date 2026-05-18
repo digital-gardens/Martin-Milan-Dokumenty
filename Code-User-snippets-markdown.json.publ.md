@@ -2,6 +2,7 @@ Code-User-snippets-markdown.json.publ.md
 
 
 C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1
+# 20260518.18   HOPE FOR Junction TO  Junction
 
 
 
