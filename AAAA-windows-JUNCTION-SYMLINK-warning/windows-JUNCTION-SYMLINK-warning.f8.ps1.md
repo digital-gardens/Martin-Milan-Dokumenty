@@ -60,6 +60,11 @@ dont ... not finished after many tens of minutes
                 restarted
                 again downloads some files
 
+rem Pause OneDrive sync before running Robocopy (right-click OneDrive tray icon → Pause syncing)
+
+
+
+
 
 # begin transaction
 
