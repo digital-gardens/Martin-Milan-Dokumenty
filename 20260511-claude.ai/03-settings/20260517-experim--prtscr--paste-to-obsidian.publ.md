@@ -2,6 +2,18 @@
 
 
 
+^p open vault 
+
+![[Pasted image 20260518211211.png]]
+
+
+00
+3904f0a8e48fb451
+
+![[Pasted image 20260518210000.png]]
+
+
+
 
 
 for long term ... disable ext
