@@ -9,7 +9,19 @@ AAAA-windows-JUNCTION-SYMLINK-warning
 
 
 
-# 20260518   HOPE FOR Junction TO  Junction
+
+#   btw  omg   bug  20260518.1904   .. a name  mangled   by ai   ..  Dokuments__s__ERROR   __k__ __s__ 
+english name is Documents, 
+i am not German // Dokuments__s__ERROR
+i am Czech  
+windows forced us to use czech Dokumenty   //// __y__ yyyyyy
+
+find in files ... 3 instances of  Dokuments*  in the codebase, all in the same file 
+
+
+
+
+# 20260518.18   HOPE FOR Junction TO  Junction
 
 moving
 not split
@@ -17,7 +29,7 @@ not split
 junctioned from elsewhere
 
 
-# before transaction
+# state  before transaction
 
 cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\" | clip
 
@@ -33,16 +45,73 @@ cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\" | clip
                7 Dir(s)  68,395,401,216 bytes free
 
 snippets is a junction to a dir in OneDrive,
+05/02/2022  22:43    <JUNCTION>     snippets [C:\Users\marti\OneDrive\roam-code-us-snipp\]
 
 
-# after transaction
+# prepare backups 
+
+tc copy by hand 
+the dir to dee 0 
+
+wt.exe
+pwsh 
+robo onedr 
+
+
+# begin transaction
+
+git push
+
+notepad C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1
+
+close all vscode
+tc  move the dir
+
+###robo Dokuments__s__ERROR
+robo Dokumenty
+
+git push
+
+###explorer delete the junction
+
+cmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
+
+
+
+
+---
+
+examle of junction
+cmd /c mklink /j $HOME\bcloudREADONLY  C:\Users\marti\OneDrive\bcloudREADONLY
+
+# cmd /c mklink /j  is it   newNAME   targetDIR  ?
+
+Creates a symbolic link.
+
+MKLINK [[/D] | [/H] | [/J]] Link Target
+
+        /D      Creates a directory symbolic link.  Default is a file
+                symbolic link.
+        /H      Creates a hard link instead of a symbolic link.
+        /J      Creates a Directory Junction.
+        Link    Specifies the new symbolic link name.
+        Target  Specifies the path (relative or absolute) that the new link
+                refers to.
+
+exit
+cmd 
+help  mklink |clip
+
+# todo  [C:\Users\marti\OneDrive\roam-code-us-snipp\] is a junction to \Users\marti\OneDrive\Dokumenty\roam-code-us-snipp\
+
+cmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
+
+
+# after transaction  ... HOPE
 
 05/02/2022  22:43    <JUNCTION>     snippets
 
- [C:\Users\marti\OneDrive\roam-code-us-snipp\]
-is a junction to \Users\marti\OneDrive\Dokumenty\roam-code-us-snipp\
-
-
+# todo  [C:\Users\marti\OneDrive\roam-code-us-snipp\] is a junction to \Users\marti\OneDrive\Dokumenty\roam-code-us-snipp\
 
 
 # tests
@@ -50,47 +119,20 @@ is a junction to \Users\marti\OneDrive\Dokumenty\roam-code-us-snipp\
 cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\snippets"
 
 
+# aftermath  
+
 
 related
 C:\Users\marti\OneDrive\Dokumenty\Code-User-snippets-markdown.json.publ.md
 will be moved tooo
 
 
-"C:\Users\marti\OneDrive\roam-code-us-snipp"
-"C:\Users\marti\OneDrive\
-
-# omg.. a name  mangled   by ai   ..  Dokuments__s__ERROR   __k__ __s__ 
-english name is Documents, 
-i am not German // Dokuments__s__ERROR
-i am Czech  
-windows forced us to use czech Dokumenty   //// __y__ yyyyyy
-
-
-\roam-code-us-snipp"
 
 
 
 
 
-notepad C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1
-close all vscode
-
-git push
-
-move the dir
-
-###robo Dokuments__s__ERROR
-robo Dokumenty
-
-git push
-
-explorer delete the junction
-
-
-cmd /c mkl
-
-
-
+# much older  
 
 
 cd .\dotfiles
