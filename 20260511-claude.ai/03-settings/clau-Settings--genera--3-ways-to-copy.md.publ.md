@@ -14,9 +14,26 @@ tags:
 switch off autoclick
 
 take screenshot of settings page
+paste them to obsidian
+
+
+# 20260518
+claude 
+settings
+chat, code 
+where i can set custom instructions for claude to follow in all chats and code sessions?  
+
+
+C:\Users\marti\OneDrive\Dokumenty\20260511-claude.ai\03-settings\gemini.google.com---saved-info.publ.md
+
+do Profile Preferences apply to both chats and code sessions?
+Short answer: no, they're separate systems.
 
 
 
+~/.claude/CLAUDE.md is your personal global file — it applies to every project. It's where you put preferences like preferred package manager, type conventions, testing frameworks, etc. 
+
+A CLAUDE.md in your project root defines project conventions, rules, commands, and preferences for that specific codebase. 
 
 
 
