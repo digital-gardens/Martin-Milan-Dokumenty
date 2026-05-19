@@ -2,6 +2,10 @@
 
 
 
+
+![[Pasted image 20260519155516.png]]
+
+
 ^p open vault 
 
 ![[Pasted image 20260518211211.png]]
