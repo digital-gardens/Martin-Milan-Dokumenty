@@ -16,7 +16,7 @@ i am not German // Dokuments__s__ERROR
 i am Czech  
 windows forced us to use czech Dokumenty   //// __y__ yyyyyy
 
-find in files ... 3 instances of  Dokuments*  in the codebase, all in the same file 
+find in files ... 3 instances of  Doku....s*  in the codebase, all in the same file 
 
 
 
