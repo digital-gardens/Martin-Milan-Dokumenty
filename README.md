@@ -20,3 +20,10 @@ Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried 
 
 
 
+# for Martin ... a note to self  ... 
+
+/// some 
+subfolders are being moved to 
+   https://github.com/digital-gardens/00-MM
+
+
