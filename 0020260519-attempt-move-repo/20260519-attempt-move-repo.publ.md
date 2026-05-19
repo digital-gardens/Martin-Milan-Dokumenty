@@ -2,9 +2,18 @@
 ////--0MM--
 00-MM
 .publ.md
-
 20260519
 
+attempt 
+moving my monorepo 
+
+to new repo root
+dokumenty/00-MM/
+  00-files/  
+
+
+# initial state 
+my monorepo is Dokumenty
 
 
 # sort order experim    00-MM
@@ -21,32 +30,6 @@ https://drive.google.com/drive/my-drive
 
 
 
-
-
-011 ℹ️ 0404--HLAVNI-ROZCESTNIK--MAIN
-
-https://www.google.com/interests/saved/list/-Gw_GSCuLz4YmUmSIPVztg?q=011%20%E2%84%B9%EF%B8%8F%200404--HLAVNI-ROZCESTNIK--MAIN&sa=X&ved=0CAkQ5oAKahcKEwiw8pKs-MSUAxUAAAAAHQAAAAAQCg
-
-"C:\Users\marti\OneDrive\Dokumenty\20260519-attempt-move-repo\011 0404 not 2602 ⏰ mm.publ.md"
-
-
-
-
-
-
-attempt 
-moving my monorepo 
-
-to new repo root
-dokumenty/00-MM/00-files  
-
-
-# initial state 
-my monorepo is Dokumenty
-
-
-cat  .git
-
 # blind-alley
 ai 
 NOOOOOOOOOOOOOOO
@@ -56,12 +39,24 @@ to track the .git file  itself
 when it is just   a link  to a gitdir elsewhere
 ////imagine mounting the repo root into a semi-trusted container  
 //// i am a security "paranoid"
+cat  .git
 
 Option 2: Environment variables?? but i need to use gui github-desktop
 
 git ls-files  |   findstr -i [.]git[^i]
 
 
+
+
+
+
+
+
+# 011 ℹ️ 0404--HLAVNI-ROZCESTNIK--MAIN
+
+https://www.google.com/interests/saved/list/-Gw_GSCuLz4YmUmSIPVztg?q=011%20%E2%84%B9%EF%B8%8F%200404--HLAVNI-ROZCESTNIK--MAIN&sa=X&ved=0CAkQ5oAKahcKEwiw8pKs-MSUAxUAAAAAHQAAAAAQCg
+
+"C:\Users\marti\OneDrive\Dokumenty\20260519-attempt-move-repo\011 0404 not 2602 ⏰ mm.publ.md"
 
 
 
