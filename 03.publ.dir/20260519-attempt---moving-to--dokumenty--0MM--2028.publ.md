@@ -1,10 +1,40 @@
-20260519-attempt---moving-to--dokumenty--0MM--2028.publ.md
+# 20260519-attempt---moving-to--dokumenty--0MM--2028.publ.md
 
+attempt 
+moving my monorepo 
+
+to new repo root
 dokumenty/0MM/2028
+or rather just dokumenty/0MM
+
+# initial state 
+my monorepo is Dokumenty
+
+cat  .git
+
+
+NOOOOOOOOOOOOOOO
+is it possible 
+e.g. for security 
+to track the .git file  itself  
+when it is just   a link  to a gitdir elsewhere
+
+////imagine mounting the repo root into a semi-trusted container  
+
+//// i am a security "paranoid"
+
+
+
+Option 2: Environment variables?? but i need to use gui github-desktop
 
 
 
 
+
+
+git add 
+
+git ls-files  |   findstr -i [.]git[^i]
 
 published: 2021-11-03
 created:
