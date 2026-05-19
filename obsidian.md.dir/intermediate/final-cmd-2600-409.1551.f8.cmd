@@ -170,6 +170,17 @@ ls ~/OneDrive/*.gi*
 ls ~/OneDrive/.git
 ls ~/OneDrive/Copy.git
 
+
+
+edit
+C:\Users\marti\OneDrive\Dokumenty\marti-onedrive-2600-251127.git.f8.md
+# 251127.22  fixed # a few lines copied from
+C:\Users\marti\OneDrive\Dokumenty\obsidian.md.dir\intermediate\final-cmd-2600-409.1551.f8.cmd
+and heavily modified
+
+
+
+
    git clone     --separate-git-dir=$GIT_DIR      https://github.com/martin12333/marti-onedrive.git
 
 	exit
