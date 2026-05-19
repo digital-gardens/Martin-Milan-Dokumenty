@@ -1,40 +1,69 @@
-# 20260519-attempt---moving-to--dokumenty--0MM--2028.publ.md
+# 20260519-attempt---moving-to--
+////--0MM--
+00-MM
+.publ.md
+
+20260519
+
+
+
+# sort order experim    00-MM
+![alt text](image.png)
+
+tc
+https://onedrive.live.com/?id=%2Fpersonal%2F4b12298d932a2860%2FDocuments%2FDokumenty&view=0
+github
+
+win + e
+https://drive.google.com/drive/my-drive
+
+
+
+
+
+
+
+011 ℹ️ 0404--HLAVNI-ROZCESTNIK--MAIN
+
+https://www.google.com/interests/saved/list/-Gw_GSCuLz4YmUmSIPVztg?q=011%20%E2%84%B9%EF%B8%8F%200404--HLAVNI-ROZCESTNIK--MAIN&sa=X&ved=0CAkQ5oAKahcKEwiw8pKs-MSUAxUAAAAAHQAAAAAQCg
+
+"C:\Users\marti\OneDrive\Dokumenty\20260519-attempt-move-repo\011 0404 not 2602 ⏰ mm.publ.md"
+
+
+
+
+
 
 attempt 
 moving my monorepo 
 
 to new repo root
-dokumenty/0MM/2028
-or rather just dokumenty/0MM
+dokumenty/00-MM/00-files  
+
 
 # initial state 
 my monorepo is Dokumenty
 
+
 cat  .git
 
-
+# blind-alley
+ai 
 NOOOOOOOOOOOOOOO
 is it possible 
 e.g. for security 
 to track the .git file  itself  
 when it is just   a link  to a gitdir elsewhere
-
 ////imagine mounting the repo root into a semi-trusted container  
-
 //// i am a security "paranoid"
-
-
 
 Option 2: Environment variables?? but i need to use gui github-desktop
 
-
-
-
-
-
-git add 
-
 git ls-files  |   findstr -i [.]git[^i]
+
+
+
+
 
 published: 2021-11-03
 created:
@@ -48,9 +77,6 @@ mail google.com
 "digital-gardens/Martin-Milan"
 "digital-gardens/Martin-Milan"
 
-
-
-
 https://www.google.com/interes
 https://myactivity.google.com/myactivity?q=%22digital-gardens%2FMartin-Milan%22
 https://myactivity.google.com/myactivity?q=%22digital-gardens%2FMartin-Milan%22
@@ -61,7 +87,5 @@ https://www.google.com/collections/s/list/fNvsFNjr6yDGlNWZGAow2Q/z_POjAWzIw4
 https://www.google.com/collections/s/list/fNvsFNjr6yDGlNWZGAow2Q/z_POjAWzIw4
 https://www.google.com/interests/saved/list/fNvsFNjr6yDGlNWZGAow2Q
 https://www.google.com/interests/saved/list/fNvsFNjr6yDGlNWZGAow2Q
-
-
 
 
