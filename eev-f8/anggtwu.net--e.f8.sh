@@ -6,12 +6,49 @@ http://anggtwu.net/e/
 ^a
 ^c
 
-file:///C:\Users\marti\OneDrive\eev-f8\anggtwu.net--e.txt
+file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\anggtwu.net--e.txt
+
+
+
+site:https://anggtwu.net "angra"
+
+"fireworks"
+
+
+
 
 ///
 site:angg.twu.net mathematics philosophy
 site:anggtwu.net mathematics philosophy
+site:https://anggtwu.net vopenka
+site:https://anggtwu.net "set theory"
+
 edrx
+
+
+
+
+medium
+bluesky
+
+
+
+
+
+anggtwu
+site:https://anggtwu.net "mcp"
+
+ai
+llm
+llms.e
+
+openai
+gpt
+chatgpt
+gemini
+copilot
+claude
+
 
 
 
