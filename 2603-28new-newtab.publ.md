@@ -4,6 +4,12 @@
 https://   ___???
 musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
 
+
+
+# 20260521  works extension://icpgjfneehieebagbmdbhnlpiopdcmna/options.html
+
+
+
 # https://gemini.google.com/app/a319ecf14c4949be
 an existing extension, that could allow me to load a local file
 
@@ -11,12 +17,29 @@ an existing extension, that could allow me to load a local file
 # communtiy at github 
 https://github.com/jimschubert/NewTab-Redirect/issues/50
 
-false alarm?
+# false alarm?
 https://github.com/jimschubert/NewTab-Redirect?tab=readme-ov-file
 Important: This is not meant to replace your homepage, only new tabs.
  If your browser is set to load the New Tab page as your homepage, there may be odd consequences.
 edge://settings/startHomeNTP
-probably disabled 
+old..probably disabled 
+
+# 20260521  works edge://favorites/?id=45225
+edge://settings/startHomeNTP
+Open tabs from the previous session
+ok
+edge:restart 
+ok
+
+# 20260521 paranoid research probably not needed but maybe useful in future
+Because Edge includes a Startup Boost feature, hidden background processes often remain active even when you close the browser. If your startup flags aren't applying properly, it usually means an old process is still running. You can close all active instances via Task Manager or by running taskkill /f /im msedge.exe before applying your switches.
+--disable-gpu: Disables hardware acceleration.--disable-features: Disables specific Chromium or Edge features (e.g., --disable-features=msEdgeStartupBoost).
+
+taskkill /f /im msedge.exe
+
+
+
+
 
 
 edge://extensions/?id=icpgjfneehieebagbmdbhnlpiopdcmna
@@ -30,14 +53,13 @@ Allow access to file URLs
 
 
 
-zda namirit newtab na 
+# zda namirit newtab na 
 file:///C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir/011-POMOC-pro-Martina-Milana.publ.md
 nebo na
 file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
-
-
-
-
+edge://favorites/?id=45225
+# 20260521  works extension://icpgjfneehieebagbmdbhnlpiopdcmna/options.html
+© James Schubert, 2009-2023  |  Report bugs  |  Beta test  |  'Welcome'
 
 
 
@@ -88,6 +110,9 @@ file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
  Save Cancel 
 
  Always update tab, not redirect. (Enable for cursor in the address bar)
+?
+not needed yet 
+
 
  Sync this URL across browsers?
 
@@ -115,11 +140,13 @@ file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
 
  [Extensions](chrome://extensions/)
 
- [History](chrome://history/)
+
+aaa [History](chrome://history/)
+
 
  [Downloads](chrome://downloads/)
 
- [Bookmarks](chrome://bookmarks/)
+aa [Bookmarks](chrome://bookmarks/)
 
  [Internals](chrome://net-internals/)
 
@@ -134,6 +161,8 @@ file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
  [Version](chrome://version/)
 
  [Blank Page](about:blank)
+
+
 
 Options saved!
 

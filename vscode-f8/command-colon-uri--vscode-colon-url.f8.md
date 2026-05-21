@@ -4,6 +4,10 @@
 exit
 
 
+
+file:///C:\Users\marti\OneDrive\Dokumenty\browserEEV\custom-url,uri.f8.ps1
+
+
 [aaaaaaaa](command:workbench.action.toggleKeybindingsLog)
 
 
@@ -46,7 +50,8 @@ keyb
 
 
 
-# file:///C:\Users\marti\OneDrive\vscode-f8\ps1--fail--command-colon-url.f8.ps1
+////# file:///C:\Users\marti\OneDrive\vscode-f8\ps1--fail--command-colon-url.f8.ps1
+VERY SHORT TEXT FILE
 
 
 ```sh

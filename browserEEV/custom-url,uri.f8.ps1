@@ -142,9 +142,32 @@ microsoft-edge                 (default)    : URL:microsoft-edge
 
 
 
-
+explorer.exe  microsoft-edge:
 start microsoft-edge://open-in-new-tab
 start microsoft-edge://
+opens new tab page
+
+
+& "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"   --help
+opens new tab page
+
+
+file:///C:/Users/marti/OneDrive/Dokumenty/1804-NEW/favorites_5_20_26.html
+
+fail
+& "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"   --help
+
+fail
+& "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"   edge://favorites/?id=45225
+
+fail
+explorer edge://favorites/?id=45225
+explorer msedge://favorites/?id=45225
+explorer ms-edge://favorites/?id=45225
+
+fail
+& "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"  --help
+
 
                                (default)    : URL:microsoft.windows.camera
 picker                         (default)    : URL:microsoft.windows.camera.multipicker
