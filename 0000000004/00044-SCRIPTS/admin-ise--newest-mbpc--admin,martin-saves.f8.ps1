@@ -33,8 +33,15 @@ resto.point
 #icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\onedr---admin-ise--adminsaves.f8.ps1"
 icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\admin-ise--admin,martin-saves.f8.ps1"
 
+
+icacls  c:\users\marti
+icacls  c:\users\marti\OneDrive
+icacls  c:\users\marti\OneDrive\mil*
+dir c:\users\marti\OneDrive\mil*
+
 icacls  c:\users\milan_rxtipwr
 icacls  c:\users\milan_rxtipwr\OneDrive
+dir c:\users\milan_rxtipwr\OneDrive
 
 echo '-------- section --------'
 
