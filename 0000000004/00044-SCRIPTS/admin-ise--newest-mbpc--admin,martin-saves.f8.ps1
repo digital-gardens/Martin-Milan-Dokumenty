@@ -33,12 +33,18 @@ resto.point
 #icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\onedr---admin-ise--adminsaves.f8.ps1"
 icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\admin-ise--admin,martin-saves.f8.ps1"
 
+icacls  c:\users\milan_rxtipwr
+icacls  c:\users\milan_rxtipwr\OneDrive
 
 echo '-------- section --------'
 
 echo was in c:\marti
 ###this file is editable even from win milan
 https://keep.google.com/u/0/#NOTE/1w57XJBY6hzeLf0JdyX5cFti_UzbCllAlX4QRwrnSUbRwJvjQGv9YOZSUi0_oqg
+
+
+
+
 
 
 echo '-------- section --------'
@@ -124,13 +130,13 @@ taskkill /F /IM SearchIndexer.exe /T
 
 echo '-------- section --------'
 
-# tags: 20260428 430.0101 disks icacls 
+# tags: 20260428 430.0101 disks icacls
 
 # my suggestion , version 3
 
-cmd /c dir f:\ 
-icacls f:\ 
-icacls g:\ 
+cmd /c dir f:\
+icacls f:\
+icacls g:\
 
 #icacls g:\ /grant "SYSTEM:(OI)(CI)F"
 #icacls g:\ /grant "Administrators:(OI)(CI)F"
@@ -142,8 +148,8 @@ icacls f:\ /grant "NT AUTHORITY\Authenticated Users:(OI)(CI)(RX)"
 icacls G:\ /remove "NT AUTHORITY\Authenticated Users"
 icacls g:\ /grant "NT AUTHORITY\Authenticated Users:(OI)(CI)(RX)"
 
-icacls f:\ 
-icacls g:\ 
+icacls f:\
+icacls g:\
 
 
 # 2. Downgrade Authenticated Users and Users to Read & Execute only
