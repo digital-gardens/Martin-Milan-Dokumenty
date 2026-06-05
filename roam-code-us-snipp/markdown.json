@@ -20,14 +20,14 @@
 	"TODO": {
 		"prefix": "todo",
 		"body": [
-		"#TODO $1"
+		"- #TODO $1"
 		],
 		"description": "Insert a TODO comment with a hashtag"
 	},
 	"AAA": {
 		"prefix": "aaa",
 		"body": [
-		"#aaa"
+		"- #aaa"
 		],
 		"description": "Insert an AAA comment with a hashtag"
 	}
