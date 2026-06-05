@@ -2,7 +2,7 @@ EMAILY.txt, nejnovější verze 241.8, KONTAKTY, nova telefonní čísla, NONSHA
 
 
 
-#AAAAa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, NONSHADOW, NEKOPIE 
+#aaaaa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, NONSHADOW, NEKOPIE 
 
 https://keep.google.com/u/0/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw
 
