@@ -1,6 +1,6 @@
 
 
-# #obsidian-trick #aa #aaa #aaaa #aaaaA 
+# #obsidian-trick #aa #aaa #aaaa #aaaaa 
  #OLD obsidian trick 
 
 #html #obsidian-trick #aa ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAEJJREFUOI1j/O4n958BB+Dc9IixfhcDTvlGNwZGJlySxIJRA6hgAMWAkWHJe5zxzBAjyPh/J+50wOg+mg4GhwEUAwCoEQ0bC4h1OgAAAABJRU5ErkJggg==)

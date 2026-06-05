@@ -84,7 +84,7 @@ https://www.google.com/search?q=gpt-3+vs+mouse-brain+100b+synapses&newwindow=1&s
 
 # https://www.alignmentforum.org/posts/Qup9gorqpd9qKAEav/200-cop-in-mi-studying-learned-features-in-language-models#comments
 
-> People often use “neuron” to refer to many different parts of a transformer. I specifically mean the hidden state of the MLP layers, after the activation function. I do not mean the residual stream, layer outputs, keys, queries or values, attention pattern, etc.   #aaaaA
+> People often use “neuron” to refer to many different parts of a transformer. I specifically mean the hidden state of the MLP layers, after the activation function. I do not mean the residual stream, layer outputs, keys, queries or values, attention pattern, etc.   #aaaaa
 
 
 (?)

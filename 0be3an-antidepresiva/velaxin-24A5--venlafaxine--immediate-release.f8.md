@@ -46,7 +46,7 @@
 
 
 
-# issue		 #velaxin - #24A5          #aaaaA	 #venlafaxine #immediaterelease
+# issue		 #velaxin - #24A5          #aaaaa	 #venlafaxine #immediaterelease
 egimens of (R)-(–)-O-desmethylvenlafaxine and racemic O-desmethylvenlafaxine
 
 ***
