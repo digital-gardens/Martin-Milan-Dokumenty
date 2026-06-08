@@ -1,3 +1,7 @@
 {
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "livePreview": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "useTab": true
 }
