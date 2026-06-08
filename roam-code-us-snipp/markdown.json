@@ -30,7 +30,28 @@
 		"- #aaa"
 		],
 		"description": "Insert an AAA comment with a hashtag"
-	}
+	},
+
+	"h6": {
+		"prefix": "he",
+		"body": [
+		"######"
+		],
+		"description": "Insert a max heading"
+
+		// ctrl+space completes object properties
+		//"isFileTemplate": true,
+		//"exclude": "**/*.qqqq.md",
+		
+	},
 
 
+
+
+
+/// ctrl+space completes the snippet, ctrl+shift+space shows the snippet in the suggestion list, ctrl+enter inserts the snippet without replacing the prefix
+
+//// ctrl+shift+P > Preferences: Configure User Snippets > markdown.json
+
+//// END OF DICT
 }

@@ -42,6 +42,7 @@
 
 !settings.json
 !?ettings.*
+!app.json
 
 !CLAUDE.md
 !AGENTS.md
