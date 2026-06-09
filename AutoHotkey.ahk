@@ -66,7 +66,7 @@ SetWorkingDir A_ScriptDir
 
 
 
-;============================== Main Script ==============================
+;==============================  ==============================
 
 ; WARNING
 ; WARNING
@@ -104,7 +104,7 @@ FileAppend ".." "v2 reload   `n", logFile
 
 return
 
-;============ end of auto-execute section ============
+;============================== end auto-execute section ==============================
 
 ; 260210 disable in v1 OnClipboardChange ClipChanged
 
@@ -139,7 +139,7 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 ; ok „Penízky ukryl jsem do hlíny pod dubem,
 
 
-;============================== Main Script ==============================
+;==============================  ==============================
 
 
 ;MsgBox "Hello! You are running AHK v2."
@@ -147,10 +147,12 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 
 
 
-;============ end of auto-execute section ============
 
 
 
 
+;==============================  ==============================
+;==============================  ==============================
 
-; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+
+; PREVIOUS file WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk

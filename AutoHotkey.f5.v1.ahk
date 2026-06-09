@@ -57,7 +57,6 @@
 
 
 
-;==================
 
 ; ahk 1.1
 ; see also ;Blank Template written by GroggyOtter
@@ -168,8 +167,8 @@ FileAppend, % "aaa" "bbb v1 reload   `n"   , %logFile%
 return
 
 
+;============================== end auto-execute section ==============================
 
-;============ end of auto-execute section ============
 
 
 
