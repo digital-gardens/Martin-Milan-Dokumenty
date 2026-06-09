@@ -1,7 +1,9 @@
 ; use semicolon for comments in ahk
 ; this is not a .f8 file, but a .f5 file
 
-;test :   win+q AutoHotkey run the Dokumenty script
+; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+
+;test v2 :   win+q AutoHotkey run the Dokumenty script
 ;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
 
 ;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
@@ -26,7 +28,6 @@
 
 
 
-; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
 
 ; file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
 

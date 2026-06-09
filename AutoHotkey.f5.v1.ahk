@@ -1,8 +1,14 @@
 ﻿; use semicolon for comments in ahk
 ; this is not a .f8 file, but a .f5 file
 
-;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
-;test :   ^win+space
+;test v2 :   win+q AutoHotkey run the app ... it asks to reload this ahk file
+;test v1:   ^win+space
+
+
+; SECTIONS START WITH ;=  or   ;#if =
+;  searched  ^#\w    #if      #ifwinactive   #if    #hotif
+
+
 ;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
 
 ;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
@@ -58,10 +64,8 @@
 ;============================== Start Auto-Execution Section ==============================
 
 #NoEnv
-
  	; Recommended for performance and compatibility with future AutoHotkey releases.
 ; Avoids checking empty variables to see if they are environment variables.
-
 
 #Warn
 ; Enable warnings to assist with detecting common errors.
@@ -291,12 +295,13 @@ ClipChanged(Type) {
 
 
 
+;==============================  ==============================
 ;#if ==============================  ==============================
-
-;243324;'\-09,3443šěčýžýžščýžř'  čšřšřčů§¨¨ú)(,,)řčžřčž
 
 ;251213   commented out------------------------------
 #If false
+
+;243324;'\-09,3443šěčýžýžščýžř'  čšřšřčů§¨¨ú)(,,)řčžřčž
 
 ; Global hotkeys
 ; Global hotstrings
@@ -473,7 +478,17 @@ Launch_App1::Send ^a
 ; log contains the word.. reload
 ;TEST  test :    ^#{space}  win+q auto  AutoHotkey run the app ... it asks to reload this ahk file
 
+
+
 ;============================== Click_and_Copy  ==============================
+; 20260512
+; #IfWinActive ahk_exe msedge.exe
+;	#IfWinActive ahk_exe chrome.exe
+;#if any winactive
+#IfWinActive
+
+
+
 
 ; claude
 
@@ -489,12 +504,6 @@ Launch_App1::Send ^a
 ; GroupAdd("MyBrowserGroup", "ahk_exe msedge.exe")
 ; GroupAdd("MyBrowserGroup", "ahk_exe chrome.exe")
 
-
-; 20260512
-; #IfWinActive ahk_exe msedge.exe
-;	#IfWinActive ahk_exe chrome.exe
-;#if any winactive
-#IfWinActive
 
 ;AutoHotkey
 ; is it possible in v1 or v2 to write something like
@@ -789,11 +798,11 @@ Send %contents%{Enter}
 	return
 }
 
-;============================== not chrome ==============================
 
 
 
 
+;#if ============================== not chrome ==============================
 
 #IfWinActive ahk_exe totalcmd64.exe
 
@@ -822,10 +831,11 @@ Send %contents%{Enter}
 
 
 
+
 #IfWinActive
 ;, subsequently-created hotkeys and hotstrings are not context-sensitive.
-
 ;#if ==============================  ==============================
+
 
 
 MsgBox NOTHING
