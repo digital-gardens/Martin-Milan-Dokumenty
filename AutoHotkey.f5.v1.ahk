@@ -8,6 +8,7 @@
 ; SECTIONS START WITH ;=  or   ;#if =
 ;  searched  ^#\w    #if      #ifwinactive   #if    #hotif
 
+; #bug 20260609 hard to maintain the structure of this file, because there are many sections,  .........
 
 ;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
 
@@ -125,7 +126,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
 
-
+;#bug the mAin script section is twice in this file
 ;============================== Main Script ==============================
 
 ; WARNING
@@ -267,7 +268,7 @@ ClipChanged(Type) {
 
 
 
-
+;#bug the mAin script section is twice in this file
 ;============================== Main Script ==============================
 
 

@@ -2,8 +2,15 @@
 ; this is not a .f8 file, but a .f5 file
 
 ; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+; #bug 20260609 hard to maintain the structure of this file, because there are many sections,  .........
+
 
 ;test v2 :   win+q AutoHotkey run the Dokumenty script
+;test v1:   ^win+space
+
+; SECTIONS START WITH ;=  or   ;#if =
+;  searched  ^#\w    #if      #ifwinactive   #if    #hotif
+
 ;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
 
 ;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
@@ -136,5 +143,14 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 
 
 ;MsgBox "Hello! You are running AHK v2."
+
+
+
+
+;============ end of auto-execute section ============
+
+
+
+
 
 ; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
