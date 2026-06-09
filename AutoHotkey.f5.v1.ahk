@@ -902,12 +902,11 @@ MsgBox NOTHING
 ;  #r
 ;
 
-;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
-;test :   ^win+space
-
 ; test #o #p INS
 ;;whether-it-reads-up-to-here-when-i-run-it
 
+;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
+;test :   ^win+space
+; f8 works ....
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
-; f8 works ;

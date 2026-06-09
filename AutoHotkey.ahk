@@ -147,6 +147,10 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 
 
 
+;==============================  20260609.1221  hotstri   ==============================
+; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
+
+:X*:zzz::Send("{Home}{Space}{Home}")
 
 
 
@@ -156,3 +160,8 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 
 
 ; PREVIOUS file WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+
+;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
+;test :   ^win+space
+; f8 works ....
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
