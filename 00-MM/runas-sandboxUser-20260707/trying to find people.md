@@ -1,0 +1,135 @@
+
+mkdir "runas .user.NOTadmin code.exe, node.exe 20260707"
+
+"runas" "/user:" "/savecred" "code" -admin -administrator
+"runas" "/user:" "/savecred" "code"
+
+tc
+pwsh
+
+bash
+```bash
+
+grep -o  -iE  --no-filename   'runas .{0,30}[/]user[:].{0,30}' *.md
+
+history -a
+
+```
+
+
+trying to find people.md
+
+# [[trying to find people]] ... power-users
+
+
+[[trying to find people - attempt 3.md]]
+
+
+
+
+I hope, that I am not alone in this
+
+----
+
+// a regrettable misunderstanding
+// I apologize
+// my second attempt:
+
+// edit: please give me 10 quotes
+
+
+// 
+
+Because you explicitly asked not to fetch content, this report does not attempt to collect the requested ten webpage quotes. Instead, it gives you a research-ready framework that can be executed later: a scope definition, source hierarchy, literature map, evidence-collection workflow, tables comparing candidate research questions and methods, a prioritized search plan, a day-based timeline, and concrete academic and web search strings. The framework is tailored to the inferred Windows isolation topic, but it is still general enough to adapt if your actual objective turns out to be narrower or broader. 
+---
+
+//////https://zena.aktualne.cz/zdravi/desivy-navrat-z-dovolene-naucte-se-relaxovat-v-praci/r~i:article:809587?lp=1
+
+---
+
+   - `compartmentalization` — this is the actual jargon word security-conscious people use for "isolate different activities under different identities so a compromise in one doesn't reach the others." Try `compartmentalization windows separate account` or `compartmentalization vs sandboxing windows`.
+
+      - `poor man's sandbox windows account` — a phrase people genuinely use when they mean "I can't afford/don't want a VM, so I use a second Windows account instead"
+
+
+   - `Sandboxie alternative separate user account` — Sandboxie is the best-known third-party tool for this exact goal; searches comparing it to "just use a second account" tend to surface real discussion threads with tradeoffs spelled out
+
+
+
+   - **Hacker News**: use `hn.algolia.com` directly and search `compartmentalization` or `qubes windows` — HN threads about Qubes OS (a Linux distro built entirely around this idea) often have comments discussing cheaper Windows-only approximations
+
+
+
+
+---
+very distant examples
+
+yesterday i tried web searches
+- Last Updated on: 2026-07-06
+
+
+and collected some highlights & notes in my glasp
+
+selected examples:
+
+
+No access to I/O by default: Code executing in a Deno runtime has no access to read or write arbitrary files on the file system, to make network requests or open network listeners, to access environment variables, or to spawn subprocesses.
+
+
+Highlights & Notes
+
+I started to develop only inside VMs, with a full Desktop, IDE, browser etc. inside the virtual machine.
+
+
+
+
+
+
+
+I'm following the same workflow. I use a Linux host and then a Linux guest with OpenGL acceleration on virt-manager. I do all my development and browsing inside the VM. I do not trust any of the npm packages or PIP packages. Any personal stuff like banking, password manager, Nextcloud goes on the host.
+
+
+
+I'm trying to do all work in dev containers (or other sandboxes), limiting the blast radius if I'm unlucky enough to be hit by an exploit. The attackers may get a Claude token, but they won't easily be able to escape the container and scan my home dir.
+
+
+- I'm using VSCode dev containers, powered by Podman on a Mac. Most people would probably choose Docker over Podman but I'm weary of Docker and wanted to try something else. I would not consider myself an expert on containers but with the help of Claude I've been able to fight my way through various challenges:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I tried 
+e.g. to find people, who 
+
+
+
+
+so far, I have only found
+
+
+
+
+---------------------
+[[20260707.10]]
+
+
+----
+I hope, the clipboard will work too, but I don't remember if I tried that yet.
+
+------------
+-------------------
+> desktop/window station, a hostile GUI app could in principle interact with other windows on that desktop (a "shatter"-style concern) — another reason a true sandbox/VM is stronger.
+
+
