@@ -594,6 +594,7 @@ q
 YYYY BETTER SAFE THAN SORRY
 copy to onedrive/1c3
 
+yyy vscode has its own history
 
 
 yyyy but onedrive $$ has 30 days history, so i can recover the files if i lose them
@@ -660,6 +661,7 @@ C:\Users\marti\OneDrive\Dokumenty\00\Dokumenty-Robocopy---c-Dokumenty---d-mir.f5
 -------------
 
 
+pwd
 git fetch origin main
 
 Resolving deltas: 100% (1484/1484), done.
@@ -687,6 +689,8 @@ git status
 
 click at the onedrive icon in the taskbar, to see if it is syncing
 
+
+pwd
 echo git reset --mixed origin/main
 git status 
 history -a 
