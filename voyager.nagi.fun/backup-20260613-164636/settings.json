@@ -1,0 +1,99 @@
+{
+  "format": "gemini-voyager.settings.v1",
+  "exportedAt": "2026-06-13T14:46:36.588Z",
+  "version": "1.4.9",
+  "data": {
+    "geminiTimelineScrollMode": "flow",
+    "geminiTimelineHideContainer": false,
+    "geminiTimelineBarWidth": null,
+    "geminiTimelineDraggable": false,
+    "geminiTimelinePosition": null,
+    "geminiTimelinePreviewPinned": false,
+    "geminiTimelineMarkerLevel": false,
+    "geminiTimelineShortcuts": {
+      "enabled": false,
+      "shortcuts": {
+        "first": {
+          "action": "timeline:first",
+          "key": "g",
+          "modifiers": [],
+          "sequenceLength": 2
+        },
+        "last": {
+          "action": "timeline:last",
+          "key": "G",
+          "modifiers": [
+            "Shift"
+          ],
+          "sequenceLength": 2
+        },
+        "next": {
+          "action": "timeline:next",
+          "key": "j",
+          "modifiers": []
+        },
+        "previous": {
+          "action": "timeline:previous",
+          "key": "k",
+          "modifiers": []
+        }
+      }
+    },
+    "geminiChatWidth": 68,
+    "gvChatWidthEnabled": true,
+    "gvChatFontSize": 100,
+    "gvChatFontSizeEnabled": false,
+    "gvChatLineHeight": 160,
+    "gvChatLineHeightEnabled": false,
+    "geminiEditInputWidth": 60,
+    "gvEditInputWidthEnabled": false,
+    "geminiSidebarWidth": 340,
+    "gvSidebarWidthEnabled": true,
+    "gvAIStudioSidebarWidth": 280,
+    "gvPromptPanelLocked": false,
+    "gvPromptPanelPosition": null,
+    "gvPromptTriggerPosition": null,
+    "gvPromptCustomWebsites": [
+      "notebooklm.google.com"
+    ],
+    "gvPromptTheme": null,
+    "gvPromptViewMode": "compact",
+    "gvPromptPanelView": "prompts",
+    "language": "en",
+    "gvFormulaCopyFormat": "latex",
+    "geminiWatermarkRemoverEnabled": true,
+    "gvWatermarkDownloadEnabled": true,
+    "gvWatermarkPreviewEnabled": true,
+    "gvHidePromptManager": false,
+    "gvTabTitleUpdateEnabled": true,
+    "gvMermaidEnabled": true,
+    "gvQuoteReplyEnabled": true,
+    "gvCtrlEnterSend": false,
+    "gvSafariEnterFix": false,
+    "gvInputCollapseEnabled": false,
+    "gvInputCollapseWhenNotEmpty": false,
+    "gvDraftAutoSave": false,
+    "gvPreventAutoScrollEnabled": false,
+    "gvDefaultModel": null,
+    "gvDefaultModelAutoApply": true,
+    "gvFolderFilterUserOnly": false,
+    "gvAccountIsolationEnabled": false,
+    "gvAccountIsolationEnabledGemini": null,
+    "gvAccountIsolationEnabledAIStudio": null,
+    "gvSidebarAutoHide": false,
+    "gvSidebarFullHide": false,
+    "gvFolderSpacing": 2,
+    "gvAIStudioFolderSpacing": 2,
+    "gvFolderTreeIndent": -8,
+    "gvSnowEffect": false,
+    "gvVisualEffect": "off",
+    "gvForkEnabled": false,
+    "gvAIStudioEnabled": true,
+    "gvShowMessageTimestamps": false,
+    "gvPopupSectionOrder": null,
+    "geminiFolderEnabled": true,
+    "geminiFolderHideArchivedConversations": false,
+    "contextSyncEnabled": false,
+    "contextSyncPort": 3030
+  }
+}

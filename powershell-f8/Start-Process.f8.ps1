@@ -16,7 +16,8 @@ parent:
 code windows-f8\New-LocalUser---Start-Process---userklic.f8.ps1
 
 
-
+2026
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process?view=powershell-7.6
 
 echo '-------- section --------'
 
@@ -26,6 +27,10 @@ This example shows how to find the verbs that can be used when starting a proces
 $startExe = New-Object System.Diagnostics.ProcessStartInfo -Args powershell.exe
 $startExe.verbs
 
+open
+runas
+runasuser
+
 
 
 On Windows, you can run Start-Process -Verb RunAs to start a process with elevated permissions. This elevates the current user's context. The Credential parameter allows you to specify an alternate username and password, allowing you to start a process in a different user content. However, the Credential and Verb parameters can't be used together.
@@ -33,9 +38,6 @@ On Windows, you can run Start-Process -Verb RunAs to start a process with elevat
 .\google-search-f8
 "runas" "runasuser"
 
-open
-runas
-runasuser
 
 
 Start-Process -FilePath "powershell" -Verb RunAsuser

@@ -169,7 +169,7 @@ zároveň bych chtěl pomalu, na měsíce, otevřít vzdáleně související
 
 důvod: po zranění nohy, před alzheimerem
 
-ale filosofové by se měli zdravit slovy.. take your time.. což snad znamená.. nespěchám na Tebe 💚
+ale filosofové by se m  ěli zdravit slovy.. take your time.. což snad znamená.. nespěchám na Tebe 💚
 
 @
 
