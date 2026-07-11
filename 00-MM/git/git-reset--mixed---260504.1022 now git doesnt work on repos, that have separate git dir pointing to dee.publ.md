@@ -1,4 +1,10 @@
 
+newest 
+[[git..problem..corrupt..20260710.md]]
+
+
+----
+
 ////    \$ math highlighting?
 
 
@@ -9,15 +15,24 @@ git-reset--mixed
 # 260504.1022 now git doesnt work on repos, that have separate git dir pointing to dee.publ.md
 20260504.1022 now git doesnt work on repos, that have separate git dir pointing to dee.publ.md
 
+## - C:\Users\marti\OneDrive\Dokumenty\00-MM\git\git-problem...all.new...20260629.md
 
-# 202606+ corrupted index
+## - 20260710+ corrupt, now 00-MM
+a bit simpler, because 00-MM has usual gitignore
+
+
+
+# 202606+ corrupted index?
+
+20260710
 marti@MB-PC MINGW64 ~/OneDrive/Dokumenty/00-MM (main)
 \$ git status
 error: bad signature 0x00000000
 ## fatal: index file corrupt
 
 
-hypothesis..i should make git dir only on **internal** yyy disk, nnnn not on external disk
+
+# hypothesis..i should make git dir only on **internal** yyy disk, nnnn not on external disk
 
 - done disable 
 D:\0004-LINKS\OneDrive
@@ -25,19 +40,11 @@ d:\33authenticated-users\Martin-Milan
 C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan
 
 
-- aaaa todo last push and disable
-C:\Users\marti\OneDrive\Dokumenty
-todo rename 00/.git to 00/corrupt.git
-```pwsh
+ mk new md file
+[[git..problem..corrupt..20260710.md]]
 
-```
 
-- C:\Users\marti\OneDrive\Dokumenty\00-MM\git\git-problem...all.new...20260629.md
 
-- 20260710+ corrupt, now 00-MM
-a bit simpler, because 00-MM has usual gitignore
-
-todo mk new md file
 
 
 --- 
@@ -69,7 +76,7 @@ the problem is in 2 repos
 ```
 $
 ```
-
+\$
 
 
 
@@ -170,11 +177,15 @@ cd /d/0004-LINKS/Dokumenty
 
 
 mkdir -p /d/GIT-bk04/Dokumenty-20260514.git
+
+
 git init --separate-git-dir=/d/GIT-bk04/Dokumenty-20260514.git
 
 
 mv -iv .git 20260514.git
 mv -iv  20260514.git       20260514.publ.git     
+
+
 
 cp to onedrive
 
@@ -185,6 +196,8 @@ cd ..
 mv -i -v  /d/0004-LINKS/Dokumenty-20260514-copy  /d/0004-LINKS/Dokumenty-init
 mv -i -v  /d/0004-LINKS/Dokumenty  /d/0004-LINKS/Dokumenty-init-0
 mv -i -v  /d/0004-LINKS/Dokumenty-init    /d/0004-LINKS/Dokumenty
+
+
 
 robocopy
 
@@ -198,6 +211,8 @@ ls
 mkdir 03-WARNING--MAYBE-SHOULDNT--COPY-GIT_DIR
 echo 'what if ids ?? #20260514 '  > 03-WARNING--MAYBE-SHOULDNT--COPY-GIT_DIR/a.publ.txt
 
+
+
 ---
 
 mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-old2
@@ -207,6 +222,7 @@ mv -i -v /d/GIT-bk04/renamed--Dokumenty.git  /d/GIT-bk04/Dokumenty.git
 
 ls -ld /d/GIT-bk04/*Dokumenty.git*
 du -sk  /d/GIT-bk04/*Dokumenty.git*
+
 
 
 
@@ -235,7 +251,7 @@ https://github.com/digital-gardens/Martin-Milan
 
 
 
-# so now  i have changed my terminology from untracked to ignored
+# so now  i have changed my terminology from untracked to ignored #aaaa
 
 
 
@@ -407,8 +423,7 @@ then
   discuss with gemini whether  it is safe what gemini suggests
 
 
-# edit
-- a very uncommon .gitignore ... to track only *.publ.* ....  tracks only 600 files, but there are 5000 files in the working tree, that are untracked
+# edit - a very uncommon .gitignore ... to track only *.publ.* ....  tracks only 600 files, but there are 5000 files in the working tree, that are untracked
 
 
 
@@ -616,7 +631,7 @@ mkdir -p ~/OneDrive/0tmp-odr/260504-git-reset--mixed-origin-main-safety-test
 
 
 
-# yyyy and copy this 1 file 260504.1022
+# yyy and copy this 1 file 260504.1022
 
 
 https://drive.google.com/drive/folders/1U8Jtl9Ftc-2LA_1BySJ-XO16XESCQaqK
@@ -642,6 +657,20 @@ find . -name '260504*' -exec  cp -iv {} ~/OneDrive/0tmp-odr/260504-git-reset--mi
 # C:\Users\marti\OneDrive\Dokumenty\00\Dokumenty-Robocopy---c-Dokumenty---d-mir.f5.cmd
 C:\Users\marti\OneDrive\Dokumenty\00\Dokumenty-Robocopy---c-Dokumenty---d-mir.f5.cmd
 
+-------------
+
+
+git fetch origin main
+
+Resolving deltas: 100% (1484/1484), done.
+From https://github.com/digital-gardens/Martin-Milan
+ * branch            main       -> FETCH_HEAD
+ * [new branch]      main       -> origin/main
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+$
+
+
+
 
 
 
@@ -655,11 +684,19 @@ windows terminal
 pwsh 
 bash 
 git status 
+
+click at the onedrive icon in the taskbar, to see if it is syncing
+
 echo git reset --mixed origin/main
 git status 
 history -a 
 
+click at the onedrive icon in the taskbar, to see if it is syncing
 
+---
+
+?
+git push --set-upstream origin main
 
 --------------------------------------------------------------
 
